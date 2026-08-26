@@ -1,36 +1,15 @@
 <div align="center">
 
-<!-- HERO TITLE -->
+✨ GENERATIVE AI
+Create. Imagine. Generate. Innovate.
+<div align="center"> <img src="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--f9376ae3-ec5b-446f-a853-16c2be8d44b5/generative-ai-laptop-keyboard-dimensions-photo-2024.jpg?preferwebp=true&quality=80" alt="Future innovation through human and artificial intelligence" width="95%" /> </div>
+<p> <img src="https://img.shields.io/badge/Generative-AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Deep-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> </p>
 
-# ✨ 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐈𝐕𝐄 𝐀𝐈
+<p> <img src="https://img.shields.io/github/stars/SubhasishOmnify-HQ/Gen-AI-Export?style=social" /> <img src="https://img.shields.io/github/forks/SubhasishOmnify-HQ/Gen-AI-Export?style=social" /> <img src="https://img.shields.io/github/license/SubhasishOmnify-HQ/Gen-AI-Export?style=flat-square" /> </p>
 
-### *Create • Imagine • Generate • Innovate*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+the+World+of+Generative+AI;Text+%E2%80%A2+Images+%E2%80%A2+Audio+%E2%80%A2+Video+%E2%80%A2+Code;The+Future+of+Artificial+Intelligence" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/🤖_Generative_AI-Artificial_Intelligence-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🧠_Deep_Learning-Neural_Networks-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/⚡_Future-AI_Powered-00C853?style=for-the-badge" />
+🚀 An open-source project and learning resource for exploring Generative Artificial Intelligence, Large Language Models, image generation, transformers, and modern AI applications.
 
 </div>
-
----
-
-<div align="center">
-
-## 🌌 The New Era of Artificial Intelligence
-
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80" width="90%" alt="Artificial Intelligence" />
-
-</div>
-
-<br/>
-
-> **Generative AI is a revolutionary branch of Artificial Intelligence that can create entirely new content — from human-like text and realistic images to music, videos, software code, and more.**
-
----
 
 # 🚀 What is Generative AI?
 
@@ -255,12 +234,6 @@ Predictions
 
 ## 01. 💬 Large Language Models
 
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1200&q=80" width="80%" alt="Artificial Intelligence Neural Network" />
-
-</div>
-
 LLMs are designed to understand and generate human-like language.
 
 ### Core Process
@@ -282,12 +255,6 @@ A[💬 Prompt]
 ---
 
 # 02. 🎨 Diffusion Models
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1686191128892-3e53c2f13c3b?auto=format&fit=crop&w=1200&q=80" width="80%" alt="AI Generated Art" />
-
-</div>
 
 Diffusion models create images by learning how to **remove noise step by step**.
 
@@ -384,12 +351,6 @@ Output
 ---
 
 # 🔥 Generative AI Applications
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" width="90%" alt="Technology" />
-
-</div>
 
 | Industry                 | AI Applications                                    |
 | ------------------------ | -------------------------------------------------- |
