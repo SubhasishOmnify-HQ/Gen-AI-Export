@@ -2,7 +2,6 @@
 
 ✨ GENERATIVE AI
 Create. Imagine. Generate. Innovate.
-<div align="center"> <img src="https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--f9376ae3-ec5b-446f-a853-16c2be8d44b5/generative-ai-laptop-keyboard-dimensions-photo-2024.jpg?preferwebp=true&quality=80" alt="Future innovation through human and artificial intelligence" width="95%" /> </div>
 <p> <img src="https://img.shields.io/badge/Generative-AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Deep-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> </p>
 
 <p> <img src="https://img.shields.io/github/stars/SubhasishOmnify-HQ/Gen-AI-Export?style=social" /> <img src="https://img.shields.io/github/forks/SubhasishOmnify-HQ/Gen-AI-Export?style=social" /> <img src="https://img.shields.io/github/license/SubhasishOmnify-HQ/Gen-AI-Export?style=flat-square" /> </p>
